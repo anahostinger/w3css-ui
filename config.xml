@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"  
+		xmlns:gap="http://phonegap.com/ns/1.0" 
+		android-versionCode="1" 
+		version="1.0.0" 
+		id = "com.w3css.ui"  >
+	
+	<name>W3css - Templates UI</name>
+	<description>An example of W3schools - W3css widget & template UI</description>
+	<author email="aiqbal.tech@gmail.com">Iqbal Najmul Achyar</author>
+</widget>
