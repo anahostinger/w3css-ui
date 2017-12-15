@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"  
-		xmlns:gap="http://phonegap.com/ns/1.0" 
-		versionCode="10" 
 		version="1.0.0" 
-		id = "com.w3css.ui"  >
+		id = "com.iqbalw3css.ui"
+		xmlns:gap="http://phonegap.com/ns/1.0" >
 	
 	<name>W3css - Templates UI</name>
 	<description>An example of W3schools - W3css widget & template UI</description>
